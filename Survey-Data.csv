@@ -1,0 +1,16 @@
+ID,Question,Response
+1,Number_of_Pets,3
+1,Purchases_per_Year,10
+1,Average_Purchase,25.6
+1,Service_Score,4
+1,Product_Score,5
+2,Number_of_Pets,2
+2,Purchases_per_Year,12
+2,Average_Purchase,50.77
+2,Service_Score,3
+2,Product_Score,5
+3,Number_of_Pets,6
+3,Purchases_per_Year,24
+3,Average_Purchase,34.89
+3,Service_Score,5
+3,Product_Score,3
